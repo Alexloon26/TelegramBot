@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TelegramBbot.Models.ScrambledBrawler">
+    <Position X="8.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAk=</HashCode>
+      <FileName>Models\Brawler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramBbot.Models.Player">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAABAAAAAgEAACAAAAACYAAAABAIAAAAAAAABAAAA=</HashCode>
+      <FileName>Models\BrawlStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramBbot.Models.ClubMember">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Club.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramBbot.Models.Club">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAgBAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Models\Club.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramBbot.Models.ScheduledEvents">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramBbot.Models.EventItem">
+    <Position X="6.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAIgAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramBbot.Models.EventDetails">
+    <Position X="4.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramBbot.Program" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramBbot.ClientsAndMethods.BrawlApiClient">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAJAABAAAAAAAQAAQAAAEAgAAAEAiAA=</HashCode>
+      <FileName>Services\Clients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramBbot.ClientsAndMethods.BotMethods">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAEABAAAAAAAgAAQAAQAAQAggAAAEAiAA=</HashCode>
+      <FileName>Services\Clients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
